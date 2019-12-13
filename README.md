@@ -1,4 +1,7 @@
-# ESS Data Analysis
+# What Makes Europeans Happy
+
+Using data from the European Social Survey, I sought out to understand which factors are most influential, positively and negatively, 
+in determining the happiness of Europeans.   
 
 ## Install
 
