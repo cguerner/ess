@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 
 
-CSV_FILE = "../data/full/ESS1-8e01.csv"
-OUT_FILE = "../out/full_data_clean.pickle"
+CSV_FILE = "../data/ESS1-8e01/ESS1-8e01.csv"
+OUT_FILE = "../data/out/full_data_clean.pickle"
 
 """ Import """
 usecols = [
